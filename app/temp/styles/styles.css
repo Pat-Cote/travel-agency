@@ -1068,3 +1068,8 @@ a{
     margin-right: 1.4rem;
   }
 }
+
+.site_header{
+  position:absolute;
+  z-index: 2;
+}
